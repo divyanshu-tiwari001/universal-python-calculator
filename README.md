@@ -16,4 +16,4 @@ You can perform basic arithmetic:
 ### ▶️ Run it with:
 
 ```bash
-python calculator.py
+calculator.py
